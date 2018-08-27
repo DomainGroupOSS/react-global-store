@@ -8,7 +8,9 @@ This library provides components which can be used to implement a simple
 global state store in your React project, without the complexity of
 frameworks like Redux.
 
-Built on the [React Context API](https://reactjs.org/docs/context.html).
+Built on the [React Context API](https://reactjs.org/docs/context.html), with
+[Create React Context](https://github.com/jamiebuilds/create-react-context) providing
+support for React 15.
 
 ## Usage
 
