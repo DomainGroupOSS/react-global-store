@@ -1,9 +1,10 @@
 import React from 'react';
 import warning from 'warning';
 import PropTypes from 'prop-types';
+import createReactContext from 'create-react-context';
 import get from './get';
 
-const { Provider, Consumer } = React.createContext({});
+const { Provider, Consumer } = createReactContext({});
 
 export const Store = Provider;
 

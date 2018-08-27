@@ -16,16 +16,13 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "author": "Jonathan Haines",
+  "author": "Brett Snaidero",
   "license": "MIT",
   "dependencies": {
+    "create-react-context": "^0.2.2",
     "lodash": "^4.17.10",
-    "mocha": "^5.2.0",
     "path": "^0.12.7",
     "prop-types": "^15.5.10",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "sinon": "^6.1.5",
     "warning": "^3.0.0",
     "yarn-bin-fix": "^0.1.15"
   },
@@ -60,13 +57,21 @@
     "flow-result-checker": "^1.0.0",
     "in-publish": "^2.0.0",
     "jsdom": "^12.0.0",
+    "mocha": "^5.2.0",
     "nyc": "^12.0.2",
     "prettier": "^1.14.2",
     "proxyquire": "^2.0.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "sinon": "^6.1.5",
     "sinon-chai": "^3.2.0",
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5"
+  },
+  "peerDependencies": {
+    "react": "^15.6.4 || ^16.4.2",
+    "react-dom": "^15.6.4 || ^16.4.2"
   },
   "babel": {
     "presets": [
