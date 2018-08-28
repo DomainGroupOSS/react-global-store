@@ -47,6 +47,7 @@
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
     "chai-enzyme": "^1.0.0-beta.1",
+    "changelog-verify": "^1.1.0",
     "depd": "^1.1.0",
     "dirty-chai": "^2.0.1",
     "enzyme": "^3.5.0",
