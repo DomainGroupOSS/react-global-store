@@ -14,8 +14,12 @@
     "test:unit": "nyc mocha",
     "watch": "yarn storybook",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "precommit-msg": "echo 'Pre-commit checks...' && exit 0"
   },
+  "pre-commit": [
+    "lint"
+  ],
   "author": "Brett Snaidero",
   "license": "MIT",
   "dependencies": {
@@ -59,6 +63,7 @@
     "jsdom": "^12.0.0",
     "mocha": "^5.2.0",
     "nyc": "^12.0.2",
+    "pre-commit": "^1.2.2",
     "prettier": "^1.14.2",
     "proxyquire": "^2.0.1",
     "react": "^16.4.2",
