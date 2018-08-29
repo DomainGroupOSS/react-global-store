@@ -26,7 +26,6 @@
   "dependencies": {
     "create-react-context": "^0.2.2",
     "lodash": "^4.17.10",
-    "path": "^0.12.7",
     "prop-types": "^15.5.10",
     "warning": "^3.0.0"
   },

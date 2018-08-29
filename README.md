@@ -108,3 +108,7 @@ for info on the repo layout, structure and meaning.
 ## Changes and history
 
 See [CHANGELOG.md](./CHANGELOG.md).
+
+## Thanks
+
+Big thanks to [Jonathan Haines](https://github.com/BarryThePenguin), the original creator of this project.
