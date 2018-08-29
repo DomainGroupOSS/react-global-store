@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 
+### Added
+- Added NPM badge to README
+- Tidied up README
+
 ## [1.0.1][] - 2018-08-29
 
 ### Added
