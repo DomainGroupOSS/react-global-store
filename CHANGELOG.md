@@ -6,8 +6,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 
+## [1.0.1][] - 2018-08-29
+
 ### Added
 - Created react-global-store
 - Added Storybook and stories
 - render `as` component
 - merge onto existing content
+
+
+[Unreleased]: https://github.com/DomainGroupOSS/react-global-store/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/DomainGroupOSS/react-global-store/tree/v1.0.1
