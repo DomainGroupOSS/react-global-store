@@ -1,0 +1,6 @@
+--reporter dot
+--require babel-register
+--require ./test/setup.js
+--recursive test/
+--check-leaks
+--globals __coverage__
