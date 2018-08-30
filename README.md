@@ -2,8 +2,6 @@
 
 A simple global state solution for React.
 
-## About this project
-
 This library provides components which can be used to implement a simple
 global state store in your React project, without the complexity of
 frameworks like Redux.
