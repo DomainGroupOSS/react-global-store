@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added NPM badge to README
 - Tidied up README
 
+### Fixed
+- Missing Storybook config
+
 ## [1.0.1][] - 2018-08-29
 
 ### Added
