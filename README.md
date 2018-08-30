@@ -1,4 +1,4 @@
-# React Global Store
+# React Global Store ![NPM Version Badge](https://badge.fury.io/js/react-global-store.svg)
 
 A simple global state solution for React.
 
@@ -98,12 +98,6 @@ yarn run storybook
 ```
 
 This will open a collection of demos on a local port.
-
-## Code Architecture
-
-Check out the [`fe-boilerplate-generator@7.8.1`
-docs](https://github.com/domain-group/fe-boilerplate-generator/tree/v7.8.1#code-architecture)
-for info on the repo layout, structure and meaning.
 
 ## Changes and history
 
