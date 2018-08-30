@@ -81,9 +81,6 @@ npm-debug.log*
 # nyc test coverage
 .nyc_output
 
-# storybook coverage
-.storybook
-
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
