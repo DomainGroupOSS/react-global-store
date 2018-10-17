@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 
+- Removed babel-core, babel-loader, webpack and webpack server from dev dependencies
+- Removed webpack.config
+- Added babel-cli
+- Changed to use babel compiler output
+
 ### Added
 - Added NPM badge to README
 - Tidied up README
