@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
+
+## [1.0.2][] - 2018-10-17
 ### Updated
 - Travis CI integration
 
@@ -29,5 +31,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - merge onto existing content
 
 
-[Unreleased]: https://github.com/DomainGroupOSS/react-global-store/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/DomainGroupOSS/react-global-store/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/DomainGroupOSS/react-global-store/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/DomainGroupOSS/react-global-store/tree/v1.0.1
