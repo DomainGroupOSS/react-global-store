@@ -16,7 +16,7 @@ describe('get.js', () => {
     const warning = sandbox.spy();
     process.env.NODE_ENV = 'production';
 
-    const { default: get } = proxyquire('../src/components/get', {
+    const { default: get } = proxyquire('../src/get', {
       warning,
     });
 
@@ -30,7 +30,7 @@ describe('get.js', () => {
     const warning = sandbox.spy();
     process.env.NODE_ENV = 'development';
 
-    const { default: get } = proxyquire('../src/components/get', {
+    const { default: get } = proxyquire('../src/get', {
       warning,
     });
 

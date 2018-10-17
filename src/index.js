@@ -1,1 +1,1 @@
-export * from './components/store';
+export * from './store';
