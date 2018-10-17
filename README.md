@@ -1,4 +1,4 @@
-# React Global Store ![NPM Version Badge](https://badge.fury.io/js/react-global-store.svg)
+# React Global Store [![Build Status](https://travis-ci.org/DomainGroupOSS/react-global-store.svg?branch=master)](https://travis-ci.com/DomainGroupOSS/react-global-store) ![NPM Version Badge](https://badge.fury.io/js/react-global-store.svg)
 
 A simple global state solution for React.
 
